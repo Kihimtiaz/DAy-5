@@ -1,0 +1,94 @@
+.heading {
+  color: white;
+  background-color: seagreen;
+}
+div div div .damn {
+  color: beige;
+  background-color: olive;
+  font-size: 30px;
+}
+
+div div div div .header {
+  color: antiquewhite;
+  background-color: saddlebrown;
+  text-align: center;
+}
+div div div div .para {
+  color: red;
+  background-color: antiquewhite !important;
+  text-decoration: none;
+  border: 1px solid gray;
+}
+
+#para {
+  color: black;
+  background-color: slateblue;
+  border: 1px solid black;
+}
+div div div div .header2 {
+  color: burlywood;
+  background-color: black;
+  border: 2px solid indigo;
+}
+.main .main2 .main5 .tip {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  background-color: floralwhite;
+  border: 2px solid gray;
+  border-radius: 2px;
+}
+.main .main2 .main5 .head2 {
+  color: white;
+  background-color: grey;
+}
+
+/* NTH Selector */
+
+ul li:first-child {
+  color: goldenrod !important;
+  background-color: blue !important;
+}
+ul li:last-child {
+  color: sienna !important;
+  background-color: wheat !important;
+}
+ul li:nth-child(3) {
+  color: white !important;
+  background-color: blueviolet;
+  font-weight: 800;
+  border: 3px solid gray;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li:nth-child(odd) {
+  color: black;
+  background-color: salmon;
+}
+ul li:nth-child(even) {
+  color: white;
+  background-color: seagreen;
+}
+li:hover {
+  background-color: brown !important;
+}
+.matha:hover {
+  color: seagreen;
+  background-color: darkgray;
+}
+.last {
+  background-color: navy;
+  color: gold;
+  font-size: 20px;
+}
+.huh {
+  font-weight: 200;
+  font-size: 20px;
+}
+.huh:hover {
+  color: whitesmoke;
+  background-color: black;
+  font-weight: 900;
+  font-size: 25px;
+}
